@@ -1,2 +1,2 @@
 # KouluProjektit
-Tänne menee kaikki koulussa tehdyt koodinpätkät. TVT25SPL.
+Tänne menee kaikki koulussa tehdyt koodinpätkät. TVT25SPO.
