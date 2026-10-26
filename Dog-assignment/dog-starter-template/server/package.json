@@ -25,9 +25,13 @@
     "@types/express": "^4.17.17",
     "@types/node": "^20.10.0",
     "tsx": "^4.7.0",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "vitest": "^4.1.12"
   },
   "allowScripts": {
     "esbuild@0.27.2": true
+  },
+  "directories": {
+    "test": "tests"
   }
 }
